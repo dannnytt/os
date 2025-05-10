@@ -1,7 +1,7 @@
 # Операционные системы 
 
-> Laboratory works on the discipline **"Операционные системы"**  >  
-> *SibSUTIS, 09.03.01, 5 semestr, 2024*  >  
+> Laboratory works on the discipline **"Операционные системы"**   
+> *SibSUTIS, 09.03.01, 5 semestr, 2024*  
 
 # Laboratory works
 * [Laboratory work #1](lab1/)
