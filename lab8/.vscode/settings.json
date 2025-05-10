@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.axaml": "AXAML",
+        "functional": "cpp",
+        "vector": "cpp"
+    }
+}

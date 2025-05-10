@@ -1,0 +1,4 @@
+/home/daniel/sibsutis/sibsutis_os-2023/labs/lab3/build/CMakeFiles/excercise2.dir
+/home/daniel/sibsutis/sibsutis_os-2023/labs/lab3/build/CMakeFiles/excercise3.dir
+/home/daniel/sibsutis/sibsutis_os-2023/labs/lab3/build/CMakeFiles/edit_cache.dir
+/home/daniel/sibsutis/sibsutis_os-2023/labs/lab3/build/CMakeFiles/rebuild_cache.dir

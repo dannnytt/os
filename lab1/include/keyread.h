@@ -1,0 +1,13 @@
+#define ENTER 13
+#define EXIT 27
+#define PRINT_LIST 49
+#define ADD_NODE 50
+#define DELETE_NODE 51
+#define SERIALIZE_LIST 52
+#define DESERIALIZE_LIST 53
+#define SEARCH_BY_FIRSTNAME 55
+#define SEARCH_BY_LASTNAME 56
+#define SEARCH_BY_GRADE 57
+#define CLEAR_LIST 48
+
+int getch();
